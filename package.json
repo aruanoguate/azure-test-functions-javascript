@@ -1,7 +1,9 @@
 {
   "name": "azure-test-functions-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Chain Azure Functions together using input and output bindings ",
+  "repository": "https://github.com/aruanoguate/azure-test-functions-javascript",
+  "license": "Apache-2.0",
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
