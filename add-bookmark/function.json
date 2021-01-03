@@ -40,7 +40,7 @@
       "direction": "out",
       "name": "newmessage",
       "queueName": "bookmarks-post-process",
-      "connection": "azurefnteststorageacc_STORAGE"
+      "connection": "AzureWebJobsStorage"
     }
   ]
 }
